@@ -103,6 +103,10 @@ celerybeat.pid
 
 # Environments
 .env
+senv/
+.idea/
+media/
+static/
 .venv
 env/
 venv/
